@@ -1,5 +1,5 @@
 # Web-RandomChat-->Socket Programming for realtime updates
-React JS, Node JS, Socket IO, Mongo DB
+Developed and deployed RandomChat, a real-time messaging application, utilizing React JS, CSS, MongoDB, Express JS, Socket IO, and Node JS; facilitated seamless communication for 10,000+ users daily.
 
 # About Project
 RandomChat enables users to exchange messages instantly, providing a seamless and interactive 1-1 realtime chat experience .
